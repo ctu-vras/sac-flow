@@ -1,0 +1,8 @@
+#!/bin/bash -l
+
+ml PyTorch3D/0.7.3-foss-2022a-CUDA-11.7.0
+ml matplotlib/3.5.2-foss-2022a
+ml JupyterLab/3.5.0-GCCcore-11.3.0
+
+
+python "$@"

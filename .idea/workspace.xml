@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d2d4043-2f4b-4839-a077-11dc0fc6dea5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dev/kissicp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawio/code.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/drawio/code.drawio" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="xml" />
+        <option value="Jupyter Notebook" />
+        <option value="editable-svg" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ops/visibility.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2NxHFzVGu4wkG8ghx9OhHwFx1eP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "last_opened_file_path": "/home/patrik/pcflow/paper/img",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/dev/old_notebooks" />
+      <recent name="$PROJECT_DIR$/dev" />
+      <recent name="$PROJECT_DIR$/models/SCOOP/scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/notebooks" />
+      <recent name="$PROJECT_DIR$/paper/schemes" />
+      <recent name="$PROJECT_DIR$/data/params" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ablation">
+    <configuration name="ablation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pcflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dev" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dev/ablation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lidar_visibility_projection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pcflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dev" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dev/lidar_visibility_projection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loading_sceneflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pcflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dev" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dev/loading_sceneflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="robust_kabsch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pcflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dev" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dev/robust_kabsch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vis_range_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pcflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1, CUDA_LAUNCH_BLOCKING=1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dev/vis_range_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ablation" />
+        <item itemvalue="Python.vis_range_image" />
+        <item itemvalue="Python.robust_kabsch" />
+        <item itemvalue="Python.loading_sceneflow" />
+        <item itemvalue="Python.lidar_visibility_projection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d2d4043-2f4b-4839-a077-11dc0fc6dea5" name="Changes" comment="" />
+      <created>1680598713474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680598713474</updated>
+      <workItem from="1680598715514" duration="3021000" />
+      <workItem from="1680605402780" duration="11121000" />
+      <workItem from="1680675734426" duration="14160000" />
+      <workItem from="1680699449200" duration="8517000" />
+      <workItem from="1680766868151" duration="21459000" />
+      <workItem from="1680795861898" duration="502000" />
+      <workItem from="1681216400168" duration="1356000" />
+      <workItem from="1681285107172" duration="13693000" />
+      <workItem from="1681317964588" duration="7552000" />
+      <workItem from="1681370428247" duration="21331000" />
+      <workItem from="1681398128096" duration="17000" />
+      <workItem from="1681407923273" duration="2617000" />
+      <workItem from="1681456806669" duration="23083000" />
+      <workItem from="1681492580597" duration="3148000" />
+      <workItem from="1681501162934" duration="1388000" />
+      <workItem from="1681548318395" duration="2146000" />
+      <workItem from="1681550562984" duration="4061000" />
+      <workItem from="1681562076266" duration="2414000" />
+      <workItem from="1681572583476" duration="300000" />
+      <workItem from="1681719956236" duration="11747000" />
+      <workItem from="1681744344647" duration="1622000" />
+      <workItem from="1681807417606" duration="19079000" />
+      <workItem from="1681904513409" duration="8783000" />
+      <workItem from="1681979297394" duration="21000" />
+      <workItem from="1681980143999" duration="1249000" />
+      <workItem from="1682023166524" duration="92000" />
+      <workItem from="1682095845673" duration="3677000" />
+      <workItem from="1682413708950" duration="2838000" />
+      <workItem from="1682864549481" duration="1473000" />
+      <workItem from="1682968237056" duration="1823000" />
+      <workItem from="1683030995149" duration="3640000" />
+      <workItem from="1683050149299" duration="4388000" />
+      <workItem from="1683105883828" duration="5172000" />
+      <workItem from="1683132037349" duration="5855000" />
+      <workItem from="1683188036900" duration="144000" />
+      <workItem from="1683189447503" duration="3181000" />
+      <workItem from="1683201254237" duration="9781000" />
+      <workItem from="1683215991183" duration="1614000" />
+      <workItem from="1683272080402" duration="9085000" />
+      <workItem from="1683390394058" duration="11441000" />
+      <workItem from="1683447498578" duration="10381000" />
+      <workItem from="1683572383079" duration="4675000" />
+      <workItem from="1683617989243" duration="15928000" />
+      <workItem from="1683791147307" duration="9697000" />
+      <workItem from="1683806768080" duration="8808000" />
+      <workItem from="1683834883402" duration="1460000" />
+      <workItem from="1683881193745" duration="1805000" />
+      <workItem from="1683889804599" duration="1232000" />
+      <workItem from="1684135456884" duration="14816000" />
+      <workItem from="1684216921857" duration="2350000" />
+      <workItem from="1684228366980" duration="18812000" />
+      <workItem from="1684313480522" duration="9688000" />
+      <workItem from="1684327546784" duration="4138000" />
+      <workItem from="1684393600473" duration="2982000" />
+      <workItem from="1684484818471" duration="4736000" />
+      <workItem from="1684743518661" duration="765000" />
+      <workItem from="1684744380376" duration="1870000" />
+      <workItem from="1684746262327" duration="16036000" />
+      <workItem from="1684847685299" duration="6176000" />
+      <workItem from="1684911363964" duration="20048000" />
+      <workItem from="1684956317008" duration="2610000" />
+      <workItem from="1684995924926" duration="1266000" />
+      <workItem from="1685008381868" duration="7518000" />
+      <workItem from="1685016630522" duration="7018000" />
+      <workItem from="1685028207172" duration="2832000" />
+      <workItem from="1685034566844" duration="4963000" />
+      <workItem from="1685039542862" duration="2998000" />
+      <workItem from="1685085792621" duration="11024000" />
+      <workItem from="1685111532025" duration="4772000" />
+      <workItem from="1685116472012" duration="75000" />
+      <workItem from="1685200291499" duration="793000" />
+      <workItem from="1686036896880" duration="17442000" />
+      <workItem from="1686129083316" duration="22212000" />
+      <workItem from="1686162178740" duration="2446000" />
+      <workItem from="1686201832323" duration="14569000" />
+      <workItem from="1686563390376" duration="7296000" />
+      <workItem from="1686593398716" duration="1043000" />
+      <workItem from="1686641198115" duration="13521000" />
+      <workItem from="1686742113175" duration="11909000" />
+      <workItem from="1686810103984" duration="7310000" />
+      <workItem from="1686819538133" duration="1475000" />
+      <workItem from="1686821025150" duration="1908000" />
+      <workItem from="1686831277064" duration="3312000" />
+      <workItem from="1686895798958" duration="676000" />
+      <workItem from="1686901499830" duration="9735000" />
+      <workItem from="1687759117456" duration="46000" />
+      <workItem from="1687759181346" duration="17304000" />
+      <workItem from="1687806505180" duration="134000" />
+      <workItem from="1687852954882" duration="716000" />
+      <workItem from="1688020711581" duration="27307000" />
+      <workItem from="1688064194078" duration="501000" />
+      <workItem from="1688064707714" duration="3443000" />
+      <workItem from="1688109017323" duration="5758000" />
+      <workItem from="1688116629743" duration="4646000" />
+      <workItem from="1688129710067" duration="2643000" />
+      <workItem from="1688366874329" duration="266000" />
+      <workItem from="1688367197527" duration="932000" />
+      <workItem from="1688370808933" duration="48000" />
+      <workItem from="1689062814201" duration="17336000" />
+      <workItem from="1689155610152" duration="1203000" />
+      <workItem from="1689168427465" duration="2969000" />
+      <workItem from="1689233134053" duration="7151000" />
+      <workItem from="1689241400505" duration="17856000" />
+      <workItem from="1689318636353" duration="18713000" />
+      <workItem from="1689358176421" duration="5912000" />
+      <workItem from="1689490185490" duration="16105000" />
+      <workItem from="1689577354896" duration="12586000" />
+      <workItem from="1689658951425" duration="25795000" />
+      <workItem from="1689752492295" duration="12255000" />
+      <workItem from="1690181334078" duration="16100000" />
+      <workItem from="1690219602398" duration="1438000" />
+      <workItem from="1690272215047" duration="6066000" />
+      <workItem from="1690352540643" duration="1374000" />
+      <workItem from="1690371678333" duration="4775000" />
+      <workItem from="1690466206751" duration="310000" />
+      <workItem from="1690466532222" duration="6437000" />
+      <workItem from="1690526454725" duration="12562000" />
+      <workItem from="1690800937625" duration="4937000" />
+      <workItem from="1690872005478" duration="8601000" />
+      <workItem from="1690962853981" duration="2265000" />
+      <workItem from="1690965769316" duration="16880000" />
+      <workItem from="1691041605884" duration="19391000" />
+      <workItem from="1691132564780" duration="11292000" />
+      <workItem from="1691833185471" duration="652000" />
+      <workItem from="1692002116867" duration="8993000" />
+      <workItem from="1692082219340" duration="10923000" />
+      <workItem from="1692126133727" duration="989000" />
+      <workItem from="1692170908133" duration="1323000" />
+      <workItem from="1692269950374" duration="3281000" />
+      <workItem from="1692700238966" duration="5802000" />
+      <workItem from="1692778463349" duration="8557000" />
+      <workItem from="1692855736815" duration="5175000" />
+      <workItem from="1692869758430" duration="6833000" />
+      <workItem from="1692946367232" duration="5444000" />
+      <workItem from="1693210516174" duration="3546000" />
+      <workItem from="1693214075957" duration="11794000" />
+      <workItem from="1693229946509" duration="2695000" />
+      <workItem from="1693289638680" duration="8093000" />
+      <workItem from="1693810317339" duration="12818000" />
+      <workItem from="1693911475502" duration="8358000" />
+      <workItem from="1693932741453" duration="113000" />
+      <workItem from="1693993317349" duration="7969000" />
+      <workItem from="1694068731684" duration="991000" />
+      <workItem from="1694072913280" duration="657000" />
+      <workItem from="1695714240168" duration="599000" />
+      <workItem from="1695799950512" duration="11854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/patrik/pcflow/notebooks/freespace.ipynb</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/patrik/pcflow/dev/hw1.py.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pcflow$glumpy_ex.coverage" NAME="glumpy_ex Coverage Results" MODIFIED="1681325418016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vis" />
+    <SUITE FILE_PATH="coverage/pcflow$vis_range_image.coverage" NAME="vis_range_image Coverage Results" MODIFIED="1684762945710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/pcflow$flow.coverage" NAME="flow Coverage Results" MODIFIED="1683628283340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loss" />
+    <SUITE FILE_PATH="coverage/pcflow$robust_kabsch.coverage" NAME="robust_kabsch Coverage Results" MODIFIED="1684498413968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev" />
+    <SUITE FILE_PATH="coverage/pcflow$deprecated_vis.coverage" NAME="deprecated_vis Coverage Results" MODIFIED="1681549542774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vis" />
+    <SUITE FILE_PATH="coverage/pcflow$loading_sceneflow.coverage" NAME="loading_sceneflow Coverage Results" MODIFIED="1683623477228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev" />
+    <SUITE FILE_PATH="coverage/pcflow$visibility.coverage" NAME="visibility Coverage Results" MODIFIED="1681396670765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ops" />
+    <SUITE FILE_PATH="coverage/pcflow$visibility_smoothness.coverage" NAME="visibility_smoothness Coverage Results" MODIFIED="1681827055538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pipeline" />
+    <SUITE FILE_PATH="coverage/pcflow$kissicp.coverage" NAME="kissicp Coverage Results" MODIFIED="1681396629817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/kiss_icp" />
+    <SUITE FILE_PATH="coverage/pcflow$visibility_2D.coverage" NAME="visibility_2D Coverage Results" MODIFIED="1681819332301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev" />
+    <SUITE FILE_PATH="coverage/pcflow$ablation.coverage" NAME="ablation Coverage Results" MODIFIED="1690965891619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev" />
+    <SUITE FILE_PATH="coverage/pcflow$env_codes.coverage" NAME="env_codes Coverage Results" MODIFIED="1683397306168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev" />
+    <SUITE FILE_PATH="coverage/pcflow$evaluate_flow.coverage" NAME="evaluate_flow Coverage Results" MODIFIED="1684143432822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev" />
+    <SUITE FILE_PATH="coverage/pcflow$show_visibility_loss.coverage" NAME="show_visibility_loss Coverage Results" MODIFIED="1680680604417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/pcflow$build_neural_prior.coverage" NAME="build_neural_prior Coverage Results" MODIFIED="1682413757399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/neural_prior" />
+    <SUITE FILE_PATH="coverage/pcflow$vispy_ex.coverage" NAME="vispy_ex Coverage Results" MODIFIED="1680615208649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev" />
+    <SUITE FILE_PATH="coverage/pcflow$transform.coverage" NAME="transform Coverage Results" MODIFIED="1683397302394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ops" />
+  </component>
+</project>
